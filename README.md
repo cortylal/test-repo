@@ -5,6 +5,6 @@ This is a test repo
 ###This is a tertiary heading
 
 Unordered Lists
-*first item
-*2nd 
-*etc.
+* first item
+* 2nd 
+* etc.
